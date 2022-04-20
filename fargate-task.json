@@ -4,7 +4,7 @@
     "containerDefinitions": [
         {
             "name": "fargate-app", 
-            "image": "223273631722.dkr.ecr.ap-south-1.amazonaws.com/niranjan:31", 
+            "image": "223273631722.dkr.ecr.ap-south-1.amazonaws.com/niranjan:15", 
             "portMappings": [
                 {
                     "containerPort": 8080, 

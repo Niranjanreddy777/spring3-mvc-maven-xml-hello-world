@@ -9,5 +9,5 @@
         }
     ],
     "desiredCount": 2,
-    "role": "AWSServiceRoleForElasticLoadBalancing"
+    "role": "AWSServiceRoleForECS"
 }

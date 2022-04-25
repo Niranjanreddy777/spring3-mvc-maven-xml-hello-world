@@ -5,7 +5,7 @@
         {
             "loadBalancerName": "niranjan-lb",
             "containerName": "fargate-app",
-            "containerPort": 8081
+            "containerPort": 80
         }
     ],
     "desiredCount": 2,

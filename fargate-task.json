@@ -8,8 +8,8 @@
             "image": "223273631722.dkr.ecr.ap-south-1.amazonaws.com/niranjan:15", 
             "portMappings": [
                 {
-                    "containerPort": 8081, 
-                    "hostPort": 8081, 
+                    "containerPort": 80, 
+                    "hostPort": 80, 
                     "protocol": "tcp"
                 }
             ] 

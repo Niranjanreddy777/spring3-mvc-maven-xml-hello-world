@@ -1,0 +1,13 @@
+{
+    "serviceName": "niranjan-service",
+    "taskDefinition": "sample-fargate",
+    "loadBalancers": [
+        {
+            "loadBalancerName": "niranjan-lb",
+            "containerName": "fargate-app",
+            "containerPort": 80
+        }
+    ],
+    "desiredCount": 2,
+    "role": "ecsServiceRole"
+}

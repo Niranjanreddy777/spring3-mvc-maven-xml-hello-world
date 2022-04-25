@@ -1,5 +1,6 @@
 {
     "serviceName": "niranjan-service",
+    "networkMode": "awsvpc",
     "taskDefinition": "sample-fargate",
     "loadBalancers": [
         {

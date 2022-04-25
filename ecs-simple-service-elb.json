@@ -3,8 +3,7 @@
     "taskDefinition": "sample-fargate",
     "loadBalancers": [
         {
-           
-            "targetGroupArn": "arn:aws:elasticloadbalancing:ap-south-1:223273631722:targetgroup/Niranjantg/1337bad22bd34d3a",
+            "loadBalancerName": "Niranjanlb",
             "containerName": "fargate-app",
             "containerPort": 80
         }

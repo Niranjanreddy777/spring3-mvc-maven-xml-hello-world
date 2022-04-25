@@ -3,7 +3,7 @@
     "taskDefinition": "sample-fargate",
     "loadBalancers": [
         {
-            "loadBalancerName": "Niranjan-lb",
+            "loadBalancerName": "EC2Co-EcsEl-1NY0KXVEF4440",
             "containerName": "fargate-app",
             "containerPort": 80
         }

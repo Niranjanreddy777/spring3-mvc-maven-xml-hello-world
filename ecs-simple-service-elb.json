@@ -4,6 +4,7 @@
     "loadBalancers": [
         {
             "loadBalancerName": "niranjan-lb",
+             "targetGroupArn": "arn:aws:elasticloadbalancing:ap-south-1:223273631722:targetgroup/niranjan-tg/0c07be9e3bd59342",
             "containerName": "fargate-app",
             "containerPort": 8081
         }

@@ -1,6 +1,6 @@
 {
     "serviceName": "niranjan-service",
-    "networkConfiguration": "awsvpcConfiguration={subnets=[subnet-0f3d43fa029a61fdd]}"
+    "networkConfiguration": "awsvpcConfiguration={subnets=[subnet-0f3d43fa029a61fdd]}",
     "taskDefinition": "sample-fargate",
     "loadBalancers": [
         {

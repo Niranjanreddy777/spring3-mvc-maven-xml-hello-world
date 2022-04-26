@@ -9,5 +9,5 @@
         }
     ],
     "desiredCount": 2,
-    "Role": "ecsServiceRole"
+    "role": "ecsServiceRole"
 }

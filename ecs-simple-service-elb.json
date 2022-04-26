@@ -9,5 +9,5 @@
         }
     ],
     "desiredCount": 2,
-    "Role": "arn:aws:iam::223273631722:role/ecsServiceRole"
+    "Role": "ecsServiceRole"
 }
